@@ -6,7 +6,7 @@ import getExpensesTotal from '../selectors/expenses-total';
 
 export const ExpensesSummary = (props) => (
     <div>
-        <p>Viewing {props.expensesCount} totalling {numeral(props.expensesTotal / 100).format('$0,0.00')}</p>
+        <h1>Viewing {props.expensesCount} totalling {numeral(props.expensesTotal / 100).format('$0,0.00')}</h1>
     </div>
 );
 
