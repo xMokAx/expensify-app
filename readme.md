@@ -1,7 +1,3 @@
-# Git Commands
+This app was built following this course: https://www.udemy.com/react-2nd-edition/
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+Try it now: [expensify app](https://moka-expensify.herokuapp.com/)
